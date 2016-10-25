@@ -9,8 +9,7 @@ Part Two uses: https://github.com/kathrynthegreat/AnotherFormcopy
 
 In this section we will get you the minimum viable solution for a flask app that has a front end where you can upload files (csv or pictures) and have them stored in a postgres database. In the next section we will deploy this app to heroku. 
 
-#Original code is found here: http://code.runnable.com/UiPcaBXaxGNYAAAL/how-to-upload-a-file-to-the-server-in-flask-for-python" 
-#How to go from a module to a package is here: http://flask.pocoo.org/docs/0.11/patterns/packages/# AnotherFormcopy
+Read about going from module to a package: http://flask.pocoo.org/docs/0.11/patterns/packages/# AnotherFormcopy
 
 #Here's what our new file structure looks like:
 

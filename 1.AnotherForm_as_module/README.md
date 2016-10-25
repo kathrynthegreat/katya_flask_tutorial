@@ -9,7 +9,6 @@ Part One creates yet another Form using: https://github.com/kathrynthegreat/Anot
 
 In this section we will start with an application that is self contained in one app.py file and runs on our local host. In Part two we will break it up from a single module to a pakcage. 
 
-Credits: The original code for this application can be found here: http://code.runnable.com/UiPcaBXaxGNYAAAL/how-to-upload-a-file-to-the-server-in-flask-for-python" Note that there were bugs in the original code, which I fixed.  
 
 #Here's what our starting file structure looks like:
 
@@ -23,4 +22,5 @@ AnotherFormcopy.
 │   │   ├──  index.html     # JavaScript & HTML
 ```
 
-"# http://code.runnable.com/UiPcaBXaxGNYAAAL/how-to-upload-a-file-to-the-server-in-flask-for-python" 
+Credits: The original code for this application can be found here: http://code.runnable.com/UiPcaBXaxGNYAAAL/how-to-upload-a-file-to-the-server-in-flask-for-python" Note that there were bugs in the original code, which I fixed.  
+

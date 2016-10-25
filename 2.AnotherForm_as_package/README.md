@@ -9,7 +9,6 @@ Part Two uses: https://github.com/kathrynthegreat/AnotherFormcopy
 
 In this section we will get you the minimum viable solution for a flask app that has a front end where you can upload files (csv or pictures) and have them stored in a postgres database. In the next section we will deploy this app to heroku. 
 
-Read about going from module to a package: http://flask.pocoo.org/docs/0.11/patterns/packages/# AnotherFormcopy
 
 #Here's what our new file structure looks like:
 
@@ -30,3 +29,4 @@ AnotherFormcopy.
 │   │   ├──  index.html     # JavaScript & HTML
 ```
 
+Read about going from module to a package: http://flask.pocoo.org/docs/0.11/patterns/packages/# AnotherFormcopy
